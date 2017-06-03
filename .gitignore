@@ -3,5 +3,5 @@ test.csv
 .vscode/
 debug
 .idea/
-digit-recognition
+digit-recognizer-go
 out.csv

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"flag"
 	"fmt"
-	"github.com/Larionov-Vadim/digit-recognition/perceptron"
+	"github.com/vadimlarionov/digit-recognizer-go/perceptron"
 	"os"
 )
 
