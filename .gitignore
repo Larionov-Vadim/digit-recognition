@@ -2,3 +2,6 @@ train.csv
 test.csv
 .vscode/
 debug
+.idea/
+digit-recognition
+out.csv
